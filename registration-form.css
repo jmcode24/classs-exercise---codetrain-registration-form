@@ -1,0 +1,43 @@
+body {
+	background-color: lightblue;
+	margin-right:  350px;
+	margin-left: 350px;
+}
+
+.head {
+	font-family: sans-serif;
+	background-color: whitesmoke;
+	padding: 10px;
+	border-radius: 10px;
+	border-color: blue;
+	border-top: blue solid 20px;
+}
+
+.writing-space {
+	border: none;
+	outline: none;
+	padding: 5px;
+	border-bottom: 1px solid black;
+	width: 250px;
+}
+
+.page-content {
+	background-color: whitesmoke;
+	text-align: left;
+	margin-top: 20px;
+	font-family: sans-serif;
+	background-color: whitesmoke;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.f-input {
+	float: left;
+	background-color: blue;
+	padding: 5px;
+	color: whitesmoke;
+	border-radius: 5px;
+	font-family: normal;
+	font-weight: bolder;
+	font-size: large;
+}
